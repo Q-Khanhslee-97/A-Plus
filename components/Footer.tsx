@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
             Hệ thống dựa trên các tham số của Quyết định 100/QĐ-ĐHSPKTVL-ĐT nhưng có thể xuất hiện sai số trong một vài tình huống. Kết quả chỉ mang tính chất <strong className="text-indigo-400">tham khảo</strong>.
           </p>
           <p className="text-[10px] font-black text-slate-600 uppercase tracking-widest mt-4">
-            VLUTE GRADE Master • VERSION 1.0 • 2026
+            VLUTE Calc • VERSION 1.0 • 2026
           </p>
         </div>
       </div>
