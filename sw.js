@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vlute-calc-v1-aplus';
+const CACHE_NAME = 'vlute-calc-v1.1-aplus';
 const REPO_PATH = '/A-Plus/'; // Tên repository của bạn
 
 const urlsToCache = [
