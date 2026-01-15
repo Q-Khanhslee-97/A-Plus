@@ -13,7 +13,7 @@ const Header: React.FC<HeaderProps> = ({ onShowGradeTable }) => {
           <Calculator className="w-7 h-7 text-white" />
         </div>
         <div>
-          <h1 className="text-2xl font-black uppercase tracking-tighter text-white">VLUTE GRADE Master </h1>
+          <h1 className="text-2xl font-black uppercase tracking-tighter text-white">VLUTE Calc </h1>
           <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest leading-none">QĐ 100/QĐ-ĐHSPKTVL-ĐT</p>
         </div>
       </div>
