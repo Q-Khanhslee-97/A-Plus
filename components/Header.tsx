@@ -26,8 +26,9 @@ const Header: React.FC<HeaderProps> = ({ onShowGradeTable }) => {
           <ClipboardList className="w-5 h-5 group-hover:scale-110 transition-transform" />
           <span className="text-xs font-black uppercase tracking-widest">Tra cứu điểm</span>
         </button>
+        {/* Cập nhật href để khớp với base path /A-Plus/ và thư mục public */}
         <a 
-          href="100-QD-QUY-DINH-DAO-TAO-DAI-HOC.pdf" 
+          href="/A-Plus/100-QD-QUY-DINH-DAO-TAO-DAI-HOC.pdf" 
           download="100-QD-QUY-DINH-DAO-TAO-DAI-HOC.pdf"
           className="flex items-center gap-2 px-5 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl shadow-lg transition-all group"
         >
